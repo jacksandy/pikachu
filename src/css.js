@@ -193,7 +193,9 @@ const string = `/*
   }
 /*
  * 看我可爱吗？允许你摸摸我的鼻子哦~
- */
+ *
+ * 小i童鞋 祝你开启一个愉快的夜晚呐~~
+*/
 `;
 
 export default string;
